@@ -17,7 +17,7 @@ npm start
 
 ### Send a message
 ```
-POST /api/v1/messages
+POST /messages
 ```
 #### Request Body
 ```
